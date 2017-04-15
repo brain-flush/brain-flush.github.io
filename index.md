@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Brain Flush
 
-You can use the [editor on GitHub](https://github.com/brain-flush/brain-flush.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Another personal blog where the contributors just flush their brain content once in a while.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Post history
 
 {% for post in site.posts %}
 [{{post.title}}]({{post.url}})
